@@ -2,7 +2,7 @@
 
 A Simple parser of query for the searching.
 
-It behaves somply like as follows:
+It behaves simply like as follows:
 
 - parses 2 style of query, **key:value** and simple text format.
  - key and value that is separated by '**:**'.
